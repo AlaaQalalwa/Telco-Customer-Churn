@@ -1,0 +1,17 @@
+Feature,Unique_Values,Top_Category,Top_Frequency,Top_Percentage
+gender,2,Male,3555,50.48
+SeniorCitizen,2,0,5901,83.79
+Partner,2,No,3641,51.7
+Dependents,2,No,4933,70.04
+PhoneService,2,Yes,6361,90.32
+MultipleLines,3,No,3390,48.13
+InternetService,3,Fiber optic,3096,43.96
+OnlineSecurity,3,No,3498,49.67
+OnlineBackup,3,No,3088,43.84
+DeviceProtection,3,No,3095,43.94
+TechSupport,3,No,3473,49.31
+StreamingTV,3,No,2810,39.9
+StreamingMovies,3,No,2785,39.54
+Contract,3,Month-to-month,3875,55.02
+PaperlessBilling,2,Yes,4171,59.22
+PaymentMethod,4,Electronic check,2365,33.58
